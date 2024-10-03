@@ -1,0 +1,24 @@
+name: Generate GitHub Metrics
+
+on:
+  # Ejecuta la acción cada vez que actualices el README o cuando ocurra un cron (diario)
+  schedule:
+    - cron: "0 0 * * *"  # Ejecuta diariamente a la medianoche
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup GitHub metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.isocalendar.fullyear.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
