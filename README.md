@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ![Banner de Condor Coders](github-header-image.png)
 
  About me! 
