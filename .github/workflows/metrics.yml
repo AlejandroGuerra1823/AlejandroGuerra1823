@@ -1,21 +1,20 @@
-name: Generate GitHub Metrics
-
+name: Metrics
 on:
-  # Ejecuta la acción cada vez que actualices el README o cuando ocurra un cron (diario)
-  schedule:
-    - cron: "0 0 * * *"  # Ejecuta diariamente a la medianoche
+  # Schedule daily updates
+  schedule: [{cron: "0 0 * * *"}]
+  # (optional) Run workflow manually
   workflow_dispatch:
-
+  # (optional) Run workflow when pushing on master/main
+  push: {branches: ["master", "main"]}
 jobs:
-  build:
+  github-metrics:
     runs-on: ubuntu-latest
-
+    environment: 
+      name: production
+    permissions:
+      contents: write
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Setup GitHub metrics
-        uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.isocalendar.fullyear.svg
           token: ${{ secrets.METRICS_TOKEN }}
