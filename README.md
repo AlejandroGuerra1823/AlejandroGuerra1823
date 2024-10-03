@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Alejo Header](Banner.png)
+![Banner de Condor Coders](github-header-image.png)
 
  About me! 
  ----------------
