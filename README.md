@@ -3,7 +3,7 @@
  About me! 
  ----------------
 
-Mobile developer with 3 years of experience in mobile application development. Throughout my career, I have collaborated with and led various development teams. I have had the opportunity to create and deploy over 70 applications for educational institutions across multiple Latin American countries, featuring functionalities such as push notifications, map management, QR code readers, developments with NFC technology, and large-scale deployments.  
+Mobile developer with 4 years of experience in mobile application development. Throughout my career, I have collaborated with and led various development teams. I have had the opportunity to create and deploy over 70 applications for educational institutions across multiple Latin American countries, featuring functionalities such as push notifications, map management, QR code readers, developments with NFC technology, and large-scale deployments.  
 
 * 🌍  I'm based in Medellin, Colombia. 
 * ✉️  You can contact me at [guerramanuel299@gmail.com](mailto:guerramanuel299@gmail.com)
