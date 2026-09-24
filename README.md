@@ -1,26 +1,33 @@
-![Banner de Condor Coders](github-header-image.png)
+![AI Engineer — Agentic Development · Digital Banking · Mobile & Full-Stack](header.png)
 
- About me! 
- ----------------
+## Hi, I'm Alejandro Guerra 👋
 
-Mobile developer with 4 years of experience in mobile application development. Throughout my career, I have collaborated with and led various development teams. I have had the opportunity to create and deploy over 70 applications for educational institutions across multiple Latin American countries, featuring functionalities such as push notifications, map management, QR code readers, developments with NFC technology, and large-scale deployments.  
+**AI Engineer · Senior Full-Stack & Mobile Developer** — Medellín, Colombia 🇨🇴
 
-* 🌍  I'm based in Medellin, Colombia. 
-* ✉️  You can contact me at [guerramanuel299@gmail.com](mailto:guerramanuel299@gmail.com)
+I build banking products people use every day — and since 2026, I build them with AI agents. I architected **Dilo**, a digital banking wallet for Banco Atlántida (Honduras), from scratch to production: cards, payment gateways, Auth0, biometric onboarding (FacePhi), launched on the App Store and Play Store in June 2026. Since February 2026 the project runs on a **100% agentic workflow**: I design and operate AI agents (Claude Code, MCP, custom workflows) that plan, implement and test features under my architecture and code review.
 
-### Skills  
+### 🔭 Building now
 
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a> </p>
+Public portfolio in progress — shipping in this order:
 
+- [ ] 🧰 **MCP server for Colombian financial data** (TRM, rates) — usable from Claude
+- [ ] 🤖 **Financial-analysis agent** — Python · LangGraph · structured outputs · **evals**
+- [ ] 📚 **RAG service over financial documents** — FastAPI · pgvector · retrieval metrics
 
-### Socials  
-<p align="left"> <a href="https://www.github.com/AlejandroGuerra1823" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/alejandro-guerra-developer" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+### ⚡ Highlights
 
-<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
+- 🏦 Digital banking wallet **from scratch to production** — led the 5-person team that built it; kept shipping after the team scaled to two, powered by agentic development
+- 📱 **70+ white-label mobile apps** shipped to the App Store & Play Store (EdTech, LATAM)
+- 💳 **Apple Pay & Google Pay** in-app provisioning in a core banking app (Evertec, Thales SDKs)
+- 🎓 Anthropic-trained: *Claude Code 101 · Claude 101 · AI Fluency · Agent Skills · AI Capabilities and Limitations*
+
+### 🛠 Stack
+
+**AI & Agents:** Claude Code · MCP · prompt engineering · LLM APIs (Anthropic)
+**Mobile:** React Native · TypeScript · Swift · Kotlin
+**Backend & Web:** Java · Spring Boot · Next.js · React · REST APIs
+**Cloud & DevOps:** AWS · Azure DevOps · CI/CD · Firebase
+
+### 📫 Find me
+
+[LinkedIn](https://www.linkedin.com/in/alejandro-guerra-developer) · [Portfolio](https://alejo-guerra-dev.vercel.app) · [guerramanuel299@gmail.com](mailto:guerramanuel299@gmail.com)
