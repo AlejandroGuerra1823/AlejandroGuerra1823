@@ -10,7 +10,7 @@ I build banking products people use every day — and since 2026, I build them w
 
 Public portfolio in progress — shipping in this order:
 
-- [ ] 🧰 **MCP server for Colombian financial data** (TRM, rates) — usable from Claude
+- [x] 🧰 **[colombia-finance-mcp](https://github.com/AlejandroGuerra1823/colombia-finance-mcp)** — MCP server for Colombia's official TRM (USD/COP): history, stats and conversions, usable from Claude · *TypeScript, 16 tests* — **shipped Sep 2026**
 - [ ] 🤖 **Financial-analysis agent** — Python · LangGraph · structured outputs · **evals**
 - [ ] 📚 **RAG service over financial documents** — FastAPI · pgvector · retrieval metrics
 
