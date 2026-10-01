@@ -12,7 +12,7 @@ Public portfolio in progress — shipping in this order:
 
 - [x] 🧰 **[colombia-finance-mcp](https://github.com/AlejandroGuerra1823/colombia-finance-mcp)** — MCP server for Colombia's official TRM (USD/COP): history, stats and conversions, usable from Claude · *TypeScript, 16 tests* — **shipped Sep 2026**
 - [x] 🤖 **[financial-analysis-agent](https://github.com/AlejandroGuerra1823/financial-analysis-agent)** — multi-step LangGraph agent: transaction categorization + hybrid rules/LLM anomaly detection, scored by a public eval suite (95.8% accuracy, F1 0.89) · *Python, LangGraph, Pydantic* — **shipped Oct 2026**
-- [ ] 📚 **RAG service over financial documents** — FastAPI · pgvector · retrieval metrics
+- [x] 📚 **[financial-docs-rag](https://github.com/AlejandroGuerra1823/financial-docs-rag)** — RAG over Colombian finance docs: FastAPI, pgvector/local index, cited answers, dual evals (Recall@1 90%, MRR 0.925, judge 5.0/5 · 100% grounded) · *Python, FastAPI, pgvector* — **shipped Oct 2026**
 
 ### ⚡ Highlights
 
