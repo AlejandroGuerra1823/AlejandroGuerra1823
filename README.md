@@ -11,7 +11,7 @@ I build banking products people use every day — and since 2026, I build them w
 Public portfolio in progress — shipping in this order:
 
 - [x] 🧰 **[colombia-finance-mcp](https://github.com/AlejandroGuerra1823/colombia-finance-mcp)** — MCP server for Colombia's official TRM (USD/COP): history, stats and conversions, usable from Claude · *TypeScript, 16 tests* — **shipped Sep 2026**
-- [ ] 🤖 **Financial-analysis agent** — Python · LangGraph · structured outputs · **evals**
+- [x] 🤖 **[financial-analysis-agent](https://github.com/AlejandroGuerra1823/financial-analysis-agent)** — multi-step LangGraph agent: transaction categorization + hybrid rules/LLM anomaly detection, scored by a public eval suite (95.8% accuracy, F1 0.89) · *Python, LangGraph, Pydantic* — **shipped Oct 2026**
 - [ ] 📚 **RAG service over financial documents** — FastAPI · pgvector · retrieval metrics
 
 ### ⚡ Highlights
